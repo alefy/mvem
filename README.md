@@ -1,7 +1,7 @@
 # mvem
 A (simple) Matlab Virtual Element Method code
 
-# Instalation
+# Installation
 
 mvem uses Polymesher from G. Paulino (Georgia Tech, Atlanta) :
 https://paulino.ce.gatech.edu/software.html
