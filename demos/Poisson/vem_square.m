@@ -15,12 +15,8 @@
 % You should have received a copy of the GNU General Public License
 % along with Foobar.  If not, see <https://www.gnu.org/licenses/>.
 
-% This script solves the Poisson problem with uniform load (1) and
-% homogeneous Dirichlet boundary conditons on a circle for a first order
-% problem.
-
 % This demo solves the problem : -Laplacian(u)=f, with f=1 on the unit
-% circle and homogeneuous Dirichlet BC
+% square and homogeneuous Dirichlet BC
 
 clear
 close all 
