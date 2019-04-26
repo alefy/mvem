@@ -13,7 +13,7 @@
 % GNU General Public License for more details.
 % 
 % You should have received a copy of the GNU General Public License
-% along with Foobar.  If not, see <https://www.gnu.org/licenses/>.
+% along with mvem.  If not, see <https://www.gnu.org/licenses/>.
 
 classdef Operators < handle
   %Operators The operators class builds left and right hand sides operators

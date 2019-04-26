@@ -13,7 +13,7 @@
 % GNU General Public License for more details.
 % 
 % You should have received a copy of the GNU General Public License
-% along with Foobar.  If not, see <https://www.gnu.org/licenses/>.
+% along with mvem.  If not, see <https://www.gnu.org/licenses/>.
 
 % This demo solves the problem : -Laplacian(u)=f, with f=1 on the unit
 % square and homogeneuous Dirichlet BC
