@@ -85,6 +85,7 @@ elseif degree == 2
   boundaries.nonhomogeneous_Essential_BCs(exact_sol_BC);
 end
 %boundaries.plot_Boundaries();
+disp("Press enter to solve")
 pause
 
 % Solve (Preliminary solver system: backslash :) )
