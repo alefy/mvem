@@ -87,6 +87,7 @@ elseif degree == 2 % BC for second order VEM
   
   boundaries.nonhomogeneous_Essential_BCs(exact_sol_BC');
 end
+disp("Press enter to solve")
 pause
 
 % Solve (Preliminary solver system: backslash :) )
