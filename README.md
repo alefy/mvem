@@ -3,8 +3,8 @@ A (simple) Matlab Virtual Element Method code
 
 # Installation
 
-mvem uses Polymesher from G. Paulino (Georgia Tech, Atlanta) :
-https://paulino.ce.gatech.edu/software.html
+mvem uses Polymesher v1.1 from G. Paulino (Princeton) :
+https://paulino.princeton.edu/software.html
 
 This code can solve the 2D laplace equation with both first and second order vem.
 
